@@ -1,5 +1,7 @@
 
 # Youtube video script generator
+![mage](banner.png)
+
 
 While learning LangGraph , I devolped this tool for my youtuber friend to help him with video scripts. The tool uses LangGraph routing along with OpenAI's LLM and LangChain's youtube tool.
 
